@@ -1,7 +1,7 @@
 # Análise Exploratória de Dados: Conjunto de Dados de Diamantes
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/5b/f4/00/5bf400ba325e910a51c8431c68e80df7.gif" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd254ZzB2cjZoamJreXRzYzVmbmoyaHc3M2Fiem04dWJ0bjdlbDhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlJezVKsKd6kTXW/giphy.webp" />
 </p>
 
 Este projeto realiza uma análise exploratória no conjunto de dados `diamonds` do pacote `ggplot2` em R, abordando a composição e características dos diamantes com base em suas propriedades físicas e de qualidade.
