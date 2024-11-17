@@ -1,0 +1,11 @@
+variavel,descricao,tipo,subtipo
+price,"price in US dollars ($326--$18,823)",quantitativa,contínua
+carat,weight of the diamond (0.2--5.01),quantitativa,contínua
+cut,"quality of the cut (Fair, Good, Very Good, Premium, Ideal)",qualitativa,ordinal
+color,"diamond colour, from D (best) to J (worst)",qualitativa,ordinal
+clarity,"a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))",qualitativa,ordinal
+x,length in mm (0--10.74),quantitativa,contínua
+y,width in mm (0--58.9),quantitativa,contínua
+z,depth in mm (0--31.8),quantitativa,contínua
+depth,"total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)",quantitativa,contínua
+table,width of top of diamond relative to widest point (43--95),quantitativa,contínua
